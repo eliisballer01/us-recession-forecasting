@@ -1,0 +1,6 @@
+Model,OOS_Observations,Positive_Target_Months,Pooled_Walk_Forward_ROC_AUC
+Model 1,300,61,0.55
+Model 2,300,61,0.823
+Model 3,300,61,0.821
+Model 4,300,61,0.836
+Model 5,300,61,0.853
